@@ -21,7 +21,7 @@ DocConvo is an innovative tool that facilitates natural language interactions fo
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Lucfer1811/DocConvo.git
+    git clone https://github.com/AbhasNayak/DocConvo
     ```
 
 2. Change into the project directory:
